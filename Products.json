@@ -1,0 +1,171 @@
+[
+    {
+        "id":1,
+        "category":"vegetables" ,
+        "item":"Tomato",
+        "img":"https://t4.ftcdn.net/jpg/03/27/96/23/360_F_327962332_6mb5jQLnTOjhYeXML7v45Hc5eED2GYOD.jpg",
+        "price":"60TK"
+    },
+    {
+        "id":2,
+        "category":"vegetables" ,
+        "item":"Potato",
+        "img":"https://media.istockphoto.com/id/157430678/photo/three-potatoes.jpg?s=612x612&w=0&k=20&c=qkMoEgcj8ZvYbzDYEJEhbQ57v-nmkHS7e88q8dv7TSA=",
+        "price":"40TK"
+    },
+    {
+        "id":3,
+        "category":"vegetables" ,
+        "item":"Cabbage",
+        "img":"https://i5.walmartimages.ca/images/Enlarge/272/109/6000191272109.jpg",
+        "price":"70TK"
+    },
+    {
+        "id":4,
+        "category":"vegetables" ,
+        "item":"Puple Eggplant",
+        "img":"https://imagesvc.meredithcorp.io/v3/jumpstartpure/image?url=https://static.onecms.io/wp-content/uploads/sites/19/2019/07/16/429048911_6059957530001_6059953541001-vs.jpg&w=640&h=360&q=90&c=cc",
+        "price":"50TK"
+    },
+    {
+        "id":5,
+        "category":"vegetables" ,
+        "item":"Broccoli",
+        "img":"https://cdn.britannica.com/25/78225-050-1781F6B7/broccoli-florets.jpg",
+        "price":"120TK"
+    },
+    {
+        "id":6,
+        "category":"vegetables" ,
+        "item":"Yellow Pumpkin",
+        "img":"https://freshlist.in/image/cache/catalog/yellow-pumpkin-01-600x600.jpg",
+        "price":"120TK"
+    },
+    {
+        "id":7,
+        "category":"fishies and meats" ,
+        "item":"Chicken",
+        "img":"https://img.freepik.com/premium-photo/raw-chicken-meat-white-background_58830-691.jpg?w=2000",
+        "price":"60TK"
+    },
+    {
+        "id":8,
+        "category":"fishies and meats" ,
+        "item":"Beef",
+        "img":"https://beef2live.com/images/668/author/995/2016/6/beef_pork_byproducts_1_636017419909132815.jpg",
+        "price":"40TK"
+    },
+    {
+        "id":9,
+        "category":"fishies and meats" ,
+        "item":"Lobster",
+        "img":"https://www.thespruceeats.com/thmb/1VqssLD4OeA-n_aoa0a8rV23M-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-boiled-lobster-1300523-step-07-76999fb598b74c5e8fa798eea60412c9.jpg",
+        "price":"70TK"
+    },
+    {
+        "id":10,
+        "category":"fishies and meats" ,
+        "item":"Goat",
+        "img":"https://media.istockphoto.com/id/176101808/photo/piece-of-fresh-goat-meat.jpg?s=170667a&w=0&k=20&c=V-xw38zxnAD3PSz_t676sx4Vhse92GnkdcpWiUUYYM0=",
+        "price":"50TK"
+    },
+    {
+        "id":11,
+        "category":"fishies and meats" ,
+        "item":"Oyester",
+        "img":"https://www.collinsdictionary.com/images/full/oyster_245235925.jpg",
+        "price":"120TK"
+    },
+    {
+        "id":12,
+        "category":"fishies and meats" ,
+        "item":"Fish",
+        "img":"https://t4.ftcdn.net/jpg/03/14/68/67/360_F_314686744_dvRiiXuRg6b9EIA1a4wzadc8xEwFYi82.jpg",
+        "price":"120TK"
+    },
+    {
+        "id":13,
+        "category":"milk and dairies" ,
+        "item":"Milk",
+        "img":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=480,h=480/app/images/products/sliding_image/34778a.jpg?ts=1654778894",
+        "price":"60TK"
+    },
+    {
+        "id":14,
+        "category":"milk and dairies" ,
+        "item":"Cream",
+        "img":"https://5.imimg.com/data5/RN/TG/MY-32959146/amul-fresh-cream-500x500.jpg",
+        "price":"40TK"
+    },
+    {
+        "id":15,
+        "category":"milk and dairies" ,
+        "item":"Butter",
+        "img":"https://media.istockphoto.com/id/177834117/photo/butter-isolated-on-white.jpg?s=170667a&w=0&k=20&c=orPCtC87QAvhzRS5xRn9_7TxFiJLJ7lFVw3CVSmslWY=",
+        "price":"70TK"
+    },
+    {
+        "id":16,
+        "category":"milk and dairies" ,
+        "item":"Yogurt",
+        "img":"https://www.mayrand.ca/globalassets/mayrand/catalog-mayrand/produits-laitiers/17872-yogourt-grec-nature-0-750-g-oikos.jpg",
+        "price":"50TK"
+    },
+    {
+        "id":17,
+        "category":"milk and dairies" ,
+        "item":"Cheese",
+        "img":"https://www.organicauthority.com/.image/t_share/MTU5MzI5OTc3NjUzMzM5MzUw/shutterstock_288297071.jpg",
+        "price":"120TK"
+    },
+    {
+        "id":18,
+        "category":"milk and dairies" ,
+        "item":"Custard",
+        "img":"https://chefcart.com.bd/wp-content/uploads/2020/09/5.-Foster-Clarks-Custard-Powder-200g-pack.jpg",
+        "price":"120TK"
+    },
+    {
+        "id":19,
+        "category":"fruits" ,
+        "item":"Apple",
+        "img":"https://media.istockphoto.com/id/184276818/photo/red-apple.jpg?s=612x612&w=0&k=20&c=NvO-bLsG0DJ_7Ii8SSVoKLurzjmV0Qi4eGfn6nW3l5w=",
+        "price":"60TK"
+    },
+    {
+        "id":20,
+        "category":"fruits" ,
+        "item":"Orange",
+        "img":"https://media.istockphoto.com/id/185284489/fr/photo/orange.jpg?s=612x612&w=0&k=20&c=mUu4o2OyBT_iU6lr2UnohAsOauog28xVs9DufnP8AbM=",
+        "price":"40TK"
+    },
+    {
+        "id":21,
+        "category":"fruits" ,
+        "item":"Water Lemon",
+        "img":"https://farmershausgh.com/wp-content/uploads/2020/05/Small-Water-Melon-_Ghs15.jpeg",
+        "price":"70TK"
+    },
+    {
+        "id":22,
+        "category":"fruits" ,
+        "item":"Banana",
+        "img":"https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?s=612x612&w=0&k=20&c=MAc8AXVz5KxwWeEmh75WwH6j_HouRczBFAhulLAtRUU=",
+        "price":"50TK"
+    },
+    {
+        "id":23,
+        "category":"fruits" ,
+        "item":"Mango",
+        "img":"https://media.istockphoto.com/id/168370138/photo/mango.jpg?b=1&s=170667a&w=0&k=20&c=xraujw-bJkOOBKXcqtNaU65kDaBK2szprAGynpRhSIg=",
+        "price":"120TK"
+    },
+    {
+        "id":24,
+        "category":"fruits" ,
+        "item":"Strawberry",
+        "img":"https://thumbs.dreamstime.com/b/fresh-strawberry-white-background-40742985.jpg",
+        "price":"120TK"
+    }
+    
+]
